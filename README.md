@@ -10,6 +10,9 @@ Back-end:
 - Spring (Java)
 - Node.js
 
+Front-end:
+- React (learning)
+
 DevOps:
 - Docker
 - Kubernetes
