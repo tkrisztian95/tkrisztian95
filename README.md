@@ -9,9 +9,11 @@
 Back-end:
 - Spring Framework (Java)
 - Nest.js (JS/TS)
+- Databases (SQL/NoSQL)
 
 Front-end:
-- React (improving)
+- React
+- Next.js (learning)
 
 DevOps:
 - Docker
