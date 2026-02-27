@@ -11,6 +11,7 @@ Back-end:
 - Nest.js (TS)
 - Databases (SQL/NoSQL)
 - ORMs (EF, Hibernate)
+- Redis
 
 Front-end:
 - React
