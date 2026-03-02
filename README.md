@@ -2,7 +2,7 @@
 
 🚀 Currently, I'm delving into building integrations and web apps as a Senior (Fullstack X AI-Native) Software Engineer at Markup AI.
 
-🌟 Quality is not just a goal for me; it's a guiding principle that drives every aspect of my work. I've had the privilege of working on projects that demanded a keen eye for detail and a passion for delivering nothing but the best. I believe in the power of collaboration and open source. Let's connect and create something not only functional but also elegant and maintainable.
+🌟 Quality is not just a goal for me; it's a guiding principle that drives every aspect of my work. I've had the privilege of working on projects that demanded a keen eye for detail and a passion for delivering nothing but the best with end-to-end ownership. I believe in the power of collaboration and open source. Let's connect and create something not only functional but also elegant and maintainable.
 
 🔧 Tech Stack:
 
