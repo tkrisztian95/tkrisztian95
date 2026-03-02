@@ -11,7 +11,8 @@ Back-end:
 - Nest.js (TS)
 - Databases (SQL/NoSQL)
 - ORMs (EF, Hibernate)
-- Redis
+- Redis (caching)
+- LaunchDarkly (feature switches)
 
 Front-end:
 - React
@@ -21,9 +22,10 @@ DevOps:
 - Docker
 - Kubernetes
 - GitLab/GitHub CI
-- Garafana/Datadog
+- Garafana/Datadog/PostHog
 - ArgoCD
 - Ansible/Terraform (basic)
+- Operator framework 
 
 Cloud Services:
 - AWS (Amazon Web Services) Certified
