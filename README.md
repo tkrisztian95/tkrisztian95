@@ -21,8 +21,9 @@ Back-end:
 - LaunchDarkly (feature switches)
 
 Front-end:
-- React
-- Next.js (improving)
+- React / Next.js
+- Tanstack (Query, Table, etc.)
+- Radix, Shadcd, Chakra UI
 
 DevOps:
 - Docker
@@ -31,14 +32,15 @@ DevOps:
 - Garafana/Datadog/PostHog
 - ArgoCD
 - Ansible/Terraform (basic)
-- Operator framework 
+- Operator framework
+- Tilt
 
 Cloud Services:
-- AWS (Amazon Web Services) Certified
-
+- AWS EC2,S3,Lambda (Certified Solutions Architect)
+ 
 Programming Languages:
-- Java
 - Typescript/JavaScript
+- Java
 - C#
 - Go (basic)
 
