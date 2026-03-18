@@ -6,6 +6,12 @@
 
 🔧 Tech Stack:
 
+AI:
+- Cursor, Claude Code, NotebookLM
+- Prompt Engineering
+- Local LLMs (Ollama)
+- Langfuse (observability)
+
 Back-end:
 - Spring Framework (Java)
 - Nest.js (TS)
