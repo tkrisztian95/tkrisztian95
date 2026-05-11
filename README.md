@@ -62,6 +62,10 @@ LinkedIn: https://www.linkedin.com/in/krisztian-gyula-toth/ or Email: ktothdev[a
 
 Let's build software that stands the test of time and reflects our commitment to excellence! 💻✨
 
+🚀 Things I've built
+
+Coming soon...
+
 <!--
 **tkrisztian95/tkrisztian95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
